@@ -1,7 +1,7 @@
 Places I've flown in my life
 -------
 
-![](images/table 1-1.png?raw=true)
+![](openflightsmap.png?raw=true)
 
 An export of the data from http://openflights.org/
 
